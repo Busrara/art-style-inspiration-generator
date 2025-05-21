@@ -1,4 +1,2 @@
 ipywidgets
-numpy
-matplotlib
-Pillow
+IPython
